@@ -12,7 +12,7 @@
 <h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
 
 ```zsh
-john@keima: ~/my_readme (main⚡)$ neofetch
+frrdndd@: ~/my_readme (main⚡)$ neofetch
 ```
 
 <img align="left" src="./assets/baeksongmin.jpg" width="279">
@@ -20,12 +20,12 @@ john@keima: ~/my_readme (main⚡)$ neofetch
 ```csharp
 My Profile ver. 6.0.0: 何も真実ではなく、すべてが許されているのでございます。
 ----------------------------------------------------------------------------------------
-Username: Keima Tatsuya「桂馬達也」
-WhoamI: Physicist. Programmer. Anime lover. Gamer. Musician.
+Username: ferrxmay「백송민」
+WhoamI: Programmer. Gamer. Musiclovers.
 Blog: When I have a domain I put it here.
-OS: Arch Linux with KDE Plasma 6 Desktop Environment
-Shell: zsh 5.9
-Telegram: @yoshimakayaba. (You can contact me here :v)
+OS: Arch Linux with Hyprland
+Shell: Kitty
+Telegram: @. (You can contact me here :v)
 Fav.Anime(1): 五等分の花嫁 (The Quintessential Quintuplets)💒📕👰🏻
 Fav.Anime(2): からかい上手の高木さん (Karakai Jōzu no Takagi-san) 🏞️🚅🌠
 Loves: Nakano_Itsuki (中野五月) ❤️ && Raphtalia (ラフタリア) 💘 
@@ -181,12 +181,3 @@ Josei.Seiyuu (女性声優): 高橋李依 (Takahashi Rie) && 水瀬いのり(Min
 <br>
 
     
-<h1 align="center">Support Me 🎧🎤  </h1>
-
-<p align="center">
-      <img src="https://i.pinimg.com/originals/cc/85/19/cc8519f9b3f798c87451e5c78b9e1629.gif">
-⠀⠀⠀⠀⠀<img src="img/vocaloid/vocaloidchibi.png">
-</p>
-
-
-<a href="https://www.buymeacoffee.com/johnkun29" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee"  style="height: 60px !important;width: 217px !important;" align="center"></a>
