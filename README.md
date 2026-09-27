@@ -15,7 +15,7 @@
 john@keima: ~/my_readme (main⚡)$ neofetch
 ```
 
-<img align="left" src="img/TheEmminenceInShadow/cid.png" width="279px"/>
+<img align="left" src="./assets/baeksongmin.jpg" width="279">
 
 ```csharp
 My Profile ver. 6.0.0: 何も真実ではなく、すべてが許されているのでございます。
