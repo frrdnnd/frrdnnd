@@ -1,11 +1,10 @@
 <div align="center">
-   
+     <img src="./assets/baeksongmin.gif" width="300">
 </div>
 
 <br>
 
 <div align="center">
-  <img src="./assets/baeksongmin.gif" width="300">
 </div>
 
 <br>
