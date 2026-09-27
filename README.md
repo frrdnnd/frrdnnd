@@ -131,21 +131,6 @@ Josei.Seiyuu (女性声優): 高橋李依 (Takahashi Rie) && 水瀬いのり(Min
 <br>
 <br>
 
-<div>
-    <h2 align = "center"> 🏆 My Badges </h2>
-</div>
-<div align="center">
-    <img align="center"src="badges/networking-basics.png" height="120px" width="120px"/>
-    <img align="center"src="badges/ccna-introduction-to-networks.png" height="120px" width="120px"/>
-    <img align="center" src="badges/ccna-switching-routing-and-wireless-essentials.1.png" height="120px" width="120px"/>
-    <img align="center" src="badges/ccna-enterprise-networking-security-and-automation.png" height="120px" width="120px"/>
-    <img align="center" src="badges/ccna-enterprise-networking-security-and-automation.png" height="120px" width="120px"/>
-    <img align="center" src="badges/introduction-to-cybersecurity.png" height="120px" width="120px"/>
-    <img src="https://tryhackme-badges.s3.amazonaws.com/tillend1x100.png" alt="Your Image Badge" />
-</div>
-<br>
-<br>
-<br>
 
 <h2 align="center">📉 GitHub Stats</h2>
 
