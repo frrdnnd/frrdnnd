@@ -164,7 +164,7 @@ Josei.Seiyuu (女性声優): 高橋李依 (Takahashi Rie) && 水瀬いのり(Min
             <img width="120%" alt="Stats" src="https://github-readme-activity-graph.vercel.app/graph?username=JohnKun136NVCP&theme=redical">
         </a>
         <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-            <img width="120%" alt="GraphStats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JohnKun136NVCP&theme=2077">
+            <img width="120%" alt="GraphStats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frrdnnd&theme=2077">
     </p>
 </div>
 <br>
