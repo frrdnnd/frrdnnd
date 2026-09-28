@@ -46,6 +46,7 @@ Josei.Seiyuu (女性声優): 高橋李依 (Takahashi Rie) && 水瀬いのり(Min
 
 
 
+
 <div>
     <br>
     <br>
@@ -87,10 +88,8 @@ Josei.Seiyuu (女性声優): 高橋李依 (Takahashi Rie) && 水瀬いのり(Min
         <a href="https://youtu.be/99nRyKHXj68">
             <img src="https://i.ytimg.com/vi/99nRyKHXj68/maxresdefault.jpg" width="170" align="right">
         </a>
-        <b><br><br>🎶 자랑하는 연인 🎶</b>
+        <b><br>🎶 자랑하는 연인 🎶</b>
     </p>
-    <br>
-    <br>
 </div>
 
 <br>
