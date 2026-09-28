@@ -45,52 +45,50 @@ Josei.Seiyuu (女性声優): 高橋李依 (Takahashi Rie) && 水瀬いのり(Min
 ```
 
 
-
-
 <div>
-    <br>
-    <br>
-    <br>
-    <br>
+<br><br><br><br>
     <p align="right">
         <a href="https://youtu.be/zoT7rXaCNSc">
             <img src="https://i.ytimg.com/vi/zoT7rXaCNSc/maxresdefault.jpg" width="170" align="right">
         </a>
-        <b>🎶 어느 날 옛날에 🎶<br><br></b>
+        <b>🎶 어느 날 옛날에 🎶</b>
     </p>
-    <br>
-    <br>
+    <br><br><br><br>
     <p align="right">
         <a href="https://youtu.be/IMg-w8g8Ekk">
             <img src="https://i.ytimg.com/vi/IMg-w8g8Ekk/maxresdefault.jpg" width="170" align="left">
         </a>
-        <b>바람의 나라 🎶</b>
+        <b>🎶 바람의 나라 🎶</b>
     </p>
-    <br>
-    <br>
+    <br><br><br><br>
     <p align="left">
         <a href="https://youtu.be/lCKU-tI-upI">
             <img src="https://i.ytimg.com/vi/lCKU-tI-upI/maxresdefault.jpg" width="170" align="right">
         </a>
-        <b><br><br>🎶 걱정 🎶</b>
+        <b>🎶 걱정 🎶</b>
     </p>
-    <br>
-    <br>
+    <br><br><br><br>
     <p align="right">
         <a href="https://youtu.be/Rht8rS4cR1s">
             <img src="https://i.ytimg.com/vi/Rht8rS4cR1s/maxresdefault.jpg" width="170" align="left">
         </a>
-        <b><br>🎶 유령 🎶</b>
+        <b>🎶 유령 🎶</b>
     </p>
-    <br>
-    <br>
+    <br><br><br><br>
     <p align="left">
         <a href="https://youtu.be/99nRyKHXj68">
             <img src="https://i.ytimg.com/vi/99nRyKHXj68/maxresdefault.jpg" width="170" align="right">
         </a>
-        <b><br>🎶 자랑하는 연인 🎶</b>
+        <b>🎶 자랑하는 연인 🎶</b>
     </p>
+    <br><br><br><br>
 </div>
+
+
+
+
+
+
 
 <br>
 <br>
