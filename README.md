@@ -45,55 +45,52 @@ Josei.Seiyuu (女性声優): 高橋李依 (Takahashi Rie) && 水瀬いのり(Min
 ```
 
 
+
 <div>
     <br>
     <br>
     <br>
     <br>
     <p align="right">
+        <a href="https://youtu.be/zoT7rXaCNSc">
+            <img src="https://i.ytimg.com/vi/zoT7rXaCNSc/maxresdefault.jpg" width="170" align="right">
+        </a>
+        <b>🎶 어느 날 옛날에 🎶<br><br></b>
+    </p>
+    <br>
+    <br>
+    <p align="right">
         <a href="https://youtu.be/IMg-w8g8Ekk">
-    <img
-        src="https://i.ytimg.com/vi/IMg-w8g8Ekk/maxresdefault.jpg"
-        width="170"
-        align="left"
-    >
-</a>
-        <a href = "https://www.youtube.com/watch?v=Sfz5TpCRSiI">
-            <img src = "https://i.ytimg.com/vi/Sfz5TpCRSiI/maxresdefault.jpg" width = "170" align = "right">
+            <img src="https://i.ytimg.com/vi/IMg-w8g8Ekk/maxresdefault.jpg" width="170" align="left">
         </a>
-       <b>ずっと真夜中でいいのに🎶「猫リセット」。🐱 ⏪<br><br></b>
-    </p>
-    <br>
-    <br>
-    <p align="right">
-        <a href = "https://www.youtube.com/watch?v=ziZX0vy8xAM">
-            <img src = "https://i.ytimg.com/vi/ziZX0vy8xAM/maxresdefault.jpg" width = "170" align = "left">
-        </a>
-        <b>奏(かなで)CV:高橋李依とCV:雨宮天<br>🎵ふたりはいつもどんな時もつながっていける。🎵</b>
+        <b>바람의 나라 🎶</b>
     </p>
     <br>
     <br>
     <p align="left">
-        <a href = "https://www.youtube.com/watch?v=oXlEEXws3gc">
-            <img  src ="https://i.ytimg.com/vi/oXlEEXws3gc/maxresdefault.jpg" width="170" align="right">
+        <a href="https://youtu.be/lCKU-tI-upI">
+            <img src="https://i.ytimg.com/vi/lCKU-tI-upI/maxresdefault.jpg" width="170" align="right">
         </a>
-        <b><br><br>高橋李依🎶「共感されなくてもいいじゃない」。🎶🆙</b>
+        <b><br><br>🎶 걱정 🎶</b>
     </p>
     <br>
     <br>
     <p align="right">
-        <a href="https://www.youtube.com/watch?v=jC97suFyObw">
-            <img src="https://i.ytimg.com/vi/jC97suFyObw/maxresdefault.jpg" width="170" align="left">
+        <a href="https://youtu.be/Rht8rS4cR1s">
+            <img src="https://i.ytimg.com/vi/Rht8rS4cR1s/maxresdefault.jpg" width="170" align="left">
         </a>
-        <b><br>雨宮天🎶「ロンリーナイト・ディスコティック」。🎶💌</b></p>
+        <b><br>🎶 유령 🎶</b>
+    </p>
     <br>
     <br>
     <p align="left">
-    <a href="https://youtu.be/b_cuMcDWwsI?si=od4QcDPpNVk">
-        <img src="https://i.ytimg.com/vi/od4QcDPpNVk/hqdefault.jpg" width="170" align="right">
-    </a>
-    <b><br>かめりあ - ヒアソビ (feat. 初音ミク) 【Electroswing】💘🪄💕</b>
+        <a href="https://youtu.be/99nRyKHXj68">
+            <img src="https://i.ytimg.com/vi/99nRyKHXj68/maxresdefault.jpg" width="170" align="right">
+        </a>
+        <b><br><br>🎶 자랑하는 연인 🎶</b>
     </p>
+    <br>
+    <br>
 </div>
 
 <br>
